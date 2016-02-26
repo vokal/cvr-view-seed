@@ -63,3 +63,4 @@ Running the service with something like Forever that provides automatic restarts
 #### Expose a Domain Name to the Hosted Instance
 
 The application will need to be hosted under a domain that matches the one you entered when creating the GitHub application. This needs to be configured at the DNS level, generally as a CNAME.
+
